@@ -1,0 +1,64 @@
+.navbar span {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: #17422f;
+}
+
+.nav-link {
+    color: #17422f !important;
+    font-weight: bold;
+}
+
+.carousel-inner img {
+    height: 500px; 
+    object-fit: cover;
+}
+
+.carousel-caption {
+    color:#17422f ;
+    background-color:rgba(245, 245, 245, 0.8);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 500px;
+    font-weight:bold;
+    padding: 10px 20px;
+    border-radius: 10px;
+    display: inline-block;
+    text-align: center;
+    
+}
+#inputnombre {
+    color: black;
+    background-color: snow;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 10px;
+   
+  }
+#inputcorreoelectronico {
+    color: black;
+    background-color: snow;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 10px;
+}
+#inputmensaje {
+    color: black;
+    background-color: snow;
+    border: 1px solid black;
+    border-radius: 3px;
+    padding: 10px;
+    height: 200px;
+}
+#botonenviar {
+    background-color: #17422f ;
+    padding: 10px
+}
+body {
+    padding-bottom: 50px;
+}
+form {
+    background-color:lightgreen; ; /* Cambia el color de fondo */
+    padding: 20px; /* Agrega algo de espacio dentro del formulario */
+    border-radius: 8px; /* Opcional: da bordes redondeados al formulario */
+}
